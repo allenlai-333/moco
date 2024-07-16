@@ -1,0 +1,15 @@
+[
+  {
+    "description": "get方法的mock例子",
+    "request": {
+      "uri": "/demo"
+    },
+    "response": {
+      "text": "get返回的body"
+    }
+  }
+]
+
+
+
+
